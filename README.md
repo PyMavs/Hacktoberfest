@@ -1,6 +1,6 @@
 # Hacktoberfest
 
-Level: Intermediate/Advanced
+Level: All 
 
 https://hacktoberfest.digitalocean.com/
 
@@ -23,3 +23,8 @@ TODO:
 1. Event Page (Issue created)
 2. List of projects to contribute to - PyMavs website 
 3. 
+
+Event Format:
+
+1. Tutorial session
+2. Break off into groups based on projects or techinical level of the student
