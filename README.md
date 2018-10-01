@@ -8,17 +8,18 @@ Event kit: https://hacktoberfest.digitalocean.com/eventkit
 
 Dates: October 12th, 19th, 26th 2018 (Fridays) | 13th, 20th, 27th (Saturdays)
 
-Time: ???
+Time: Need to decide (Check Doodle on Slack)
 
-Duration: 3 hrs
+Duration: 2 - 3 hrs
 
-Mini tutorials: 
+Mini tutorials: (Open to ideas!) 
 
 1. Introduction to git
 2. 
+3. 
 
 TODO:
 
-1. Event Page
-2. List of projects to contribute to - PyMavs website
+1. Event Page (Issue created)
+2. List of projects to contribute to - PyMavs website 
 3. 
